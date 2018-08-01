@@ -5,5 +5,10 @@ This project concerns a Java GUI for solving kinematics problems. To run the app
 ## Sample usage
 
 Below is an image of the app.
-![KES_example.png](https://github.com/nullberg/kinematic-equations-solver/blob/master/images/KES_example.png "KES_example.png")
 
+<img src="https://github.com/nullberg/kinematic-equations-solver/blob/master/images/KES_example.png" alt="KES_example.png" width="200px"/>
+
+
+<!--
+![KES_example.png](https://github.com/nullberg/kinematic-equations-solver/blob/master/images/KES_example.png "KES_example.png")
+-->
