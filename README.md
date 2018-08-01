@@ -4,7 +4,7 @@ This project concerns a Java GUI for solving kinematics problems. To run the app
 
 ## Sample usage
 
-Below is an image of the app, with some example inputs and output.
+Below is an image of the app, with some example inputs and output. Note that in the "Given" section, 2 textfields are disabled. The first is of course the parameter which was selected for "Find", which is Displacement. The other textfield was disabled as soon as 3 values for parameters had been specified. It is a contradiction to have more than 3 "Given" values.
 
 <img src="https://github.com/nullberg/kinematic-equations-solver/blob/master/images/KES_example.png" alt="KES_example.png" width="800px"/>
 
