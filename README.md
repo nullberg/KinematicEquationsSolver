@@ -1,2 +1,3 @@
-# kinematic-equations-solver
-Dynamic Java GUI for solving kinematics problems.
+# Kinematic Equations Solver (KES)
+
+This project concerns a Java GUI for solving kinematics problems.
