@@ -5,4 +5,4 @@ This project concerns a Java GUI for solving kinematics problems. To run the app
 ## Sample usage
 
 Below is an image of the app.
-
+![KES_example.png](https://github.com/nullberg/images/KES_example.png "KES_example.png")
